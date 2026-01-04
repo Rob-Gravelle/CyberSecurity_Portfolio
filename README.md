@@ -11,7 +11,7 @@ Current date: January 2026
 
 ABOUT ME
 
-Aspiring cybersecurity analyst with a strong focus on defensive security
+Cybersecurity analyst with a strong focus on defensive security
 (Blue Team) fundamentals.
 
 Primary interests include:
@@ -95,7 +95,7 @@ Planned next steps:
 - Refine documentation and visuals
 - Extract reusable crypto and detection utilities
 - Expand cryptographic research (modes, padding, attacks)
-- Begin structured CTF write-ups
+- Structured CTF write-ups
 - Add ethical red-team simulations with clear scope
 
 --------------------------------------------------
